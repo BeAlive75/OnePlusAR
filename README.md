@@ -1,11 +1,11 @@
-Beyondar
+OnePlusAR
 ========
 
-This framework has been designed to offer some resources to those developers with an interest in working with Augmented Reality based on geolocalization on SmartPhones and tablets.
+This framework is a clone of the BeyondAR Framework designed to offer some resources to those developers with an interest in working with Augmented Reality based on geolocalization on SmartPhones and tablets.
 
-Don't forget to check the [wiki](https://github.com/BeyondAR/beyondar/wiki) and the [documentation](http://beyondar.github.io/beyondar/doxygen/index.html) to get more information about how to use this framework.
+Don't forget to check the [wiki](https://github.com/BeAlive75/OnePlusAR/wiki) and the [documentation](http://bealive75.github.io/OnePlusAR/doxygen/index.html) to get more information about how to use this framework.
 
-BeyondAR platform only supports Android (Google Glass included). We are currently working to support other platforms.
+OnePlusAR platform only supports Android (Google Glass included). The BeyondAR team are currently working to support other platforms.
 
 
 <table  border="0" align="center">
@@ -16,7 +16,7 @@ BeyondAR platform only supports Android (Google Glass included). We are currentl
 </table>
 
 
-[BeyondAR Game](https://play.google.com/store/apps/details?id=com.beyondar#?t=W251bGwsMSwxLDIxMiwiY29tLmJleW9uZGFyIl0.) is using this platform to show the creatures around the user. Here some images:
+[OnePlusAR Game](https://play.google.com/store/apps/details?id=com.oneplusar#?t=W251bGwsMSwxLDIxMiwiY29tLmJleW9uZGFyIl0.) is using this platform to show the creatures around the user. Here some images:
 
 
 <table  border="0" align="center">
@@ -30,7 +30,7 @@ BeyondAR platform only supports Android (Google Glass included). We are currentl
 
 # License
 ~~~
-Copyright (C) 2014 BeyondAR
+Copyright (C) 2014 OnePlusAR
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

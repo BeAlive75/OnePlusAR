@@ -1,7 +1,7 @@
 Contributing
 ========
 
-This document describes the guidelines for contributing with BeyondAR.
+This document describes the guidelines for contributing with OnePlusAR.
 
 ## Coding standards
 In this project uses [this](https://source.android.com/source/code-style.html) code style guidelines, make sure you use the before doing any pull request.
